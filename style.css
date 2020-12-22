@@ -66,7 +66,7 @@ header h1 {
     color: white;
     background: linear-gradient(#00000075, #00000075),
         linear-gradient(#000000cf, #000000cf),
-        url(img/l.jpg);
+        url("https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -170,7 +170,7 @@ header h1 {
 
 #contactId{
     background: 
-    linear-gradient(#00000087,black),url('img/w.jpg');
+    linear-gradient(#00000087,black),url('https://images.pexels.com/photos/276514/pexels-photo-276514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     background-size:cover;
     background-position:center;
     padding:60px
